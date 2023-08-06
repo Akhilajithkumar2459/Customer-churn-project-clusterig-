@@ -1,1 +1,1 @@
-# Customer-churn-project-clusterig-
+# Customer-churn-project-clustering
